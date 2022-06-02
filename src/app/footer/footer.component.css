@@ -1,0 +1,9 @@
+span {
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+.row {
+  background: rgb(19, 47, 173);
+  padding: 10px;
+}

@@ -1,0 +1,30 @@
+.menu {
+  background: #006ACB
+}
+
+.nav-link {
+  color: #C1E4FF
+}
+
+.nav-link:hover{
+  color: #FFF
+}
+
+.banner img {
+  width: 100%;
+  height: 230px
+}
+
+.active {
+  color: #FFF
+}
+.logo{
+  float: left;
+}
+h1 {
+  position: relative;
+  top: 70px;
+  left: 5px;
+  font-family: cursive;
+  color: #006ACB;
+}
